@@ -3,12 +3,9 @@
 <a href="https://github.com/gauravSingh0106/-Pizza-sales-project/blob/main/pizza_sales_.csv">Pizza Sales Dataset</a>
 <a href="https://github.com/gauravSingh0106/-Pizza-sales-project/blob/main/PBIDesktop_L1dBXGhZrI.png">Sales Dashboard</a>
 
-##Pizza Dashboard link here:-
-<image width="1325" height="755" alt="PBIDesktop_L1dBXGhZrI" src="https://github.com/user-attachments/assets/c7f2078f-d81f-477f-8752-020f8de7f9b4" />
-
-
-
-Excited to share one of my latest Power BI Dashboard projects, where I analyzed a full year of pizza sales data (Jan 2015 – Dec 2015) to uncover meaningful business insights and support data-driven decision making. <br>
+Excited to share one of my latest Power BI Dashboard projects, <br>
+where I analyzed a full year of pizza sales data (Jan 2015 – Dec 2015)
+<br>to uncover meaningful business insights and support data-driven decision making. <br>
 
 ## Dashboard Highlights <br>
 1 - Total Revenue: ₹8,17,860<br>
