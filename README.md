@@ -21,37 +21,7 @@ where I analyzed a full year of pizza sales data (Jan 2015 – Dec 2015)
 5- Key Business Insights<br>
 📌 1. Weekend Sales Dominate<br>
 
-Friday (8,106 orders) recorded the highest number of orders.<br>
-Saturday (7,355 orders) was the second busiest day.<br>
-This indicates customers prefer ordering pizza before and during weekends,<br>
-making these ideal days for promotional campaigns and higher inventory planning.
-
-
-📌 2. Classic Pizza is the Revenue Leader<br>
-The Classic category generated nearly 30% of total revenue, making it the strongest-performing category.<br>
-It should remain the primary focus for marketing and combo offers.<br>
-<br>
-
-📌 3. Medium Size is the Customer Favorite<br>
-Medium (M) pizzas contributed approximately 46% of total revenue, outperforming all other sizes.<br>
-This suggests customers perceive Medium pizzas as offering the best value for money.<br>
-
-
-📌 4. Monthly Demand Fluctuation<br>
-July recorded the highest monthly orders (4,301).<br>
-October showed the lowest performance (3,797).<br>
-Understanding seasonal demand helps businesses optimize staffing and inventory.
-
-📌 5. Category-wise Performance<br>
-Classic Pizza generated the highest revenue.<br>
-Chicken Pizza received comparatively fewer orders.<br>
-This opens opportunities for targeted promotions to improve underperforming categories.<br>
-
-📌 6. Price Analysis<br>
-Maximum Pizza Price: ₹83<br>
-Minimum Pizza Price: ₹9.75<br>
-Average Pizza Price: ₹16.82<br>
-This pricing range indicates the business serves customers across multiple budget segments.<br>
+## Project Overview
 
 ## Skills Used
 Power BI <br>
