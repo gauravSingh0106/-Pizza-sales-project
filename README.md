@@ -52,3 +52,13 @@ Maximum Pizza Price: ₹83<br>
 Minimum Pizza Price: ₹9.75<br>
 Average Pizza Price: ₹16.82<br>
 This pricing range indicates the business serves customers across multiple budget segments.<br>
+
+## Skills Used
+Power BI <br>
+Power Query  <br>
+DAX Measures <br>
+Data Cleaning <br>
+Data Modeling <br>
+Interactive Dashboard Design <br>
+Business Intelligence <br>
+Data Visualization  <br>
