@@ -8,11 +8,8 @@ where I analyzed a full year of pizza sales data (Jan 2015 – Dec 2015)
 [Pizza Sales Dataset](https://github.com/gauravSingh0106/Pizza-Sales-Analysis-PowerBI/blob/main/pizza_sales_.csv)
 
 ## Dashboard link
-## Dashboard link
 
 ![Pizza Sales Dashboard](images/dashboard.png)
-<br>
-<img width="1325" height="755" alt="PBIDesktop_L1dBXGhZrI" src="https://github.com/user-attachments/assets/cac07936-3ed6-423d-bda0-db1525448e69" />
 
 
 
