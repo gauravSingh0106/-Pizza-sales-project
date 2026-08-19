@@ -48,10 +48,6 @@ The order split is almost evenly distributed: Classic (30%), Supreme (24%), Vegg
 Classic category generated the highest total revenue (₹220,053) with 14,888 pizzas sold, followed by Supreme (₹208,197) and Chicken (₹195,920).
 
 
-
-
-## Project Overview
-
 ## Skills Used
 Power BI <br>
 Power Query  <br>
