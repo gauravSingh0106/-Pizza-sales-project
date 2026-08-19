@@ -1,14 +1,18 @@
 # 🍕 Pizza Sales Analysis Dashboard | Power BI Project
 
-An end-to-end Power BI project analyzing a full year of pizza sales data (Jan 2015 – Dec 2015) to uncover business insights and support data-driven decision making.
+An end-to-end Power BI project analyzing a full year of pizza sales data (Jan 2015 – Dec 2015) to uncover business insights and support data-driven decision making.<br>
+
+## 📁 Dataset
+
+[Pizza Sales Dataset (CSV)](https://github.com/gauravSingh0106/-Pizza-sales-project/blob/main/pizza_sales_.csv)
+
+
 
 ## 📊 Dashboard Preview
 
 ![Pizza Sales Dashboard](https://github.com/gauravSingh0106/-Pizza-sales-project/blob/main/PBIDesktop_L1dBXGhZrI.png)
 
-## 📁 Dataset
 
-[Pizza Sales Dataset (CSV)](https://github.com/gauravSingh0106/-Pizza-sales-project/blob/main/pizza_sales_.csv)
 
 ## 🚀 Project Overview
 
