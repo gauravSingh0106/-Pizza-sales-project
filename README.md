@@ -45,7 +45,7 @@ Large (L) size pizzas dominate sales, contributing 45.8% of total revenue. Mediu
 The order split is almost evenly distributed: Classic (30%), Supreme (24%), Veggie (24%), and Chicken (22%). <br><br>
 
 **5. Which category brings in the highest revenue?** <br>
-Classic category generated the highest total revenue ($220,053) with 14,888 pizzas sold, followed by Supreme ($208,197) and Chicken ($195,920). <br>
+Classic category generated the highest total revenue (₹220,053) with 14,888 pizzas sold, followed by Supreme (₹208,197) and Chicken (₹195,920).
 
 
 
