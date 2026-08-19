@@ -1,4 +1,4 @@
-# -🍕 Pizza Sales Analysis Dashboard | Power BI Project
+# 🍕 Pizza Sales Analysis Dashboard | Power BI Project
 
 Excited to share one of my latest Power BI Dashboard projects, <br>
 where I analyzed a full year of pizza sales data (Jan 2015 – Dec 2015)
