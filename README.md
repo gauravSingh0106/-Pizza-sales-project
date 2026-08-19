@@ -9,7 +9,7 @@ where I analyzed a full year of pizza sales data (Jan 2015 – Dec 2015)
 
 ## Dashboard link
 
-Image/Dashboard.png.png
+ <a href="Image/Dashboard.png.png">Dashboard link</a>
 
 
 ## Dashboard Highlights <br>
