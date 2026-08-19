@@ -9,7 +9,7 @@ where I analyzed a full year of pizza sales data (Jan 2015 – Dec 2015)
 
 ## Dashboard link
 
- <a href="Image/Dashboard.png.png">Dashboard link</a>
+![image-alt](https://github.com/gauravSingh0106/Pizza-Sales-Analysis-PowerBI/blob/49d80260ea422668bc739c899ca66866cdd15795/Image/Dashboard.png.png)
 
 
 ## Dashboard Highlights <br>
