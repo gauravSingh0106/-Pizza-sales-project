@@ -53,7 +53,6 @@ Classic generated the highest total revenue (₹2,20,053) from 14,888 pizzas sol
 - Business Intelligence
 - Data Visualization
 
-## 👤 Author
 
 **Gaurav Singh**
-[LinkedIn](https://linkedin.com/in/gauravsingh0106) · [GitHub](https://github.com/gauravSingh0106)
+[LinkedIn](https://linkedin.com/in/gauravsingh0106) 
