@@ -6,6 +6,7 @@ where I analyzed a full year of pizza sales data (Jan 2015 – Dec 2015)
 
 ## Dataset of this Project 
 <a href="https://github.com/gauravSingh0106/-Pizza-sales-project/blob/main/pizza_sales_.csv">Pizza Sales Dataset</a>
+<br>
 <a href="https://github.com/gauravSingh0106/-Pizza-sales-project/blob/main/PBIDesktop_L1dBXGhZrI.png">Sales Dashboard</a>
 
 ## Dashboard link
